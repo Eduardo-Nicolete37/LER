@@ -122,6 +122,7 @@ O SGT será uma aplicação web responsiva com sincronização em nuvens.
 | Versão | Data | Autor | Modificação |
 |--------|------|-------|-------------|
 |1.0 |2026-03-27| Eduardo Nicolete | Versão inicial do documento|
+|1.1 |2026-04-10| A Equipe de Desenvolvimento| Inclusão da RF-003|
 
 
 ### 4.2 Rastreabilidade
@@ -136,3 +137,12 @@ graph LR
     RF001 --> TC001["TC-001: Teste de Criação"]
 
 ```
+
+## 5. Aprovação
+
+Matriz de Aprovação
+
+|Alteração|Data|Autor|Aprovador|
+|    -    | -  |  -  |    -    |
+| 1.0 | 2026-03-27 | Equipe de Análise | StakeHolder|
+| 1.1 | 2026-04-10 | Equipe de Desenvolvimento| Equipe de Análise|
