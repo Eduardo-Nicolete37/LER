@@ -76,6 +76,24 @@ O SGT será uma aplicação web responsiva com sincronização em nuvens.
 
 ---
 
+#### RF-003: Alterar a Tarefa para o Status de Concluido
+
+**Descrição**: O sistema deve permitir alterar a tarefa para outros status, principalmente para concluido
+**Prioridade**: Média
+**Versão** 1.0
+**Data**: 2026-04-10
+**Rastreabilidade**: Derivado da necessidade do stake holder NS-001
+
+**Critérios de Aceitação**
+
+- [ ] Usuário pode Alterar a tarefa para concluído
+- [ ] Tarefas podem retonar para Não Concluídas
+- [ ] Vuizualização filtrada por status (Concluídas e Não Concluídas)
+
+**Dependências**: RF-001
+
+---
+
 ### 3.2 Requisitos Não-Funcionais
 
 #### RNF-001: Desempenho
